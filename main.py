@@ -289,7 +289,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title
-st.markdown("<h1 class='main-title'>Quiz App by Measam Ali and Abbas Ali</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>Quiz App by Measam Ali and Ali Abbas</h1>", unsafe_allow_html=True)
 
 # Quiz questions
 quiz_data = [
@@ -476,4 +476,4 @@ if st.session_state.quiz_completed:
 
 # Footer
 st.markdown("---")
-st.markdown("© 2023 Quiz App by Measam Ali and Abbas Ali")
+st.markdown("© 2023 Quiz App by Measam Ali and Ali Abbas ")
