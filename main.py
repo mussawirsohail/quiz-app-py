@@ -240,7 +240,7 @@
 
 # # Footer
 # st.markdown("---")
-# st.markdown("© 2023 Quiz App by Measam Ali and Abbas Ali")
+# st.markdown("© 2023 Quiz App by Measam Ali and Ali Abbas")
 
 
 import streamlit as st
